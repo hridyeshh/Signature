@@ -31,4 +31,3 @@ https://github.com/user-attachments/assets/2946e4c6-6347-4b3e-bc0e-1aa473a7ebab
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [shadcn/ui](https://ui.shadcn.com/)
