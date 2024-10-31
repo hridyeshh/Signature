@@ -22,8 +22,6 @@ https://github.com/user-attachments/assets/2946e4c6-6347-4b3e-bc0e-1aa473a7ebab
 - React 18
 - TypeScript
 - Tailwind CSS
-- shadcn/ui components
-
 
 
 ## Acknowledgements
